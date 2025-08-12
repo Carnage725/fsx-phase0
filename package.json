@@ -1,0 +1,30 @@
+{
+  "name": "fsx-phase0",
+  "version": "1.0.0",
+  "description": "Starter repo for Phase 0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carnage725/fsx-phase0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Carnage725/fsx-phase0/issues"
+  },
+  "homepage": "https://github.com/Carnage725/fsx-phase0#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "eslint": "^9.33.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-unused-imports": "^4.1.4",
+    "globals": "^16.3.0",
+    "prettier": "^3.6.2"
+  }
+}
